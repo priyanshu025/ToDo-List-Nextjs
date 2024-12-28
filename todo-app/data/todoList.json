@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "2ffd4697-ef8b-446b-8660-f45a1216f6e9",
+      "text": "Go to market"
+    },
+    {
+      "id": "8c765e18-bbbb-47f3-81b9-a6470d6d6067",
+      "text": "Buy something"
+    },
+    {
+      "id": "68ba15be-4393-4249-8e79-a2667868f2a0",
+      "text": "Take dinner"
+    }
+  ]
+}
